@@ -18,6 +18,8 @@ To find out if the type of data (ratio or crude) used to train and test machine 
 
 ### 3. Findings:
 
+#### 3.1. Visualisation:
+
 <br clear="both">
 
 <div align="Left">
@@ -38,8 +40,18 @@ Fig 2: A Bar Chart Showing a Side by Side Performance of Similar Models Trained 
 
 From figures 1 and 2, it is easy to notice that models trained under ratio financial data out perfors models that are trained using crude financial data. In our specific comple, the awrags accuracy of the ratio data trained models was just under 94% as opposed to an average of 75% by models trained under crude data. In fact, the least perforaing model in the ratio data trafined andels sent outperfores all the sodels In the crude data camp.
 
-9999 3.2. Statistical Tests
+#### 3.2. Statistical Tests:
 
-Finally, we ask a question whether the difference in the models is statistically significant or is due to pure chance. To answer this questi confidence level. paired t-test
+Finally, we ask a question whether the difference in the models is statistically significant or is due to pure chance. To answer this question we conduct a paired t-test to compare the means of the models at the 95% confidence level.
 
-From the test, se can reject the mill hypothesis that ther
+From the test, se can reject the null hypothesis that there is no difference in the true means of the model accuracies under different data treatments in favour of the alternative hypothesis. Furthermore the test also shows that the models trained using ratio data tend to be 15% more accurate than there crude data counterparts.
+
+### 4. Conclusion
+
+In conclusion, this project set out to discover if the type of data (whether ratio or crude) used to train machine learning models has an impact on the subsequent predictive accuracies of the models if at all. The results reveals that ratio data has more information power and indeed increases the performance of the models by over 15%.
+
+----
+
+Thank you for reaching the end of this project series. Please feel free to [get in touch](https://www.linkedin.com/in/godfreyn321/) to share your ideas on or inspiration from the machine learning and bankrupty prediction journey so far.
+
+For my other projects, click [here](https://github.com/GodfreyElia)
