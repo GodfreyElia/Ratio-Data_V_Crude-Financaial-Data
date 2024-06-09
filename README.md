@@ -6,7 +6,7 @@
 <div align="center">
   <img height="300" width="100%" src="https://github.com/GodfreyElia/bankruptcy_prediction_with_rawdata/blob/main/Files/Bankruptcy_Prediction.png"  />
 </div>
----
+----
 
 ### 1. Preamble
 
@@ -18,3 +18,11 @@ To find out if the type of data (ratio or crude) used to train and test machine 
 
 ### 3. Findings:
 
+<br clear="both">
+
+<div align="Left">
+  <img height="60%" width="75%" src="https://github.com/GodfreyElia/Ratio-Data_V_Crude-Financaial-Data/blob/main/Diagrams/Box_Plot.png"  />
+</div>
+<br>
+
+Fig 1: Box-Plot Showing a Comparison of Accuracies of Models Trained Under Ratio Data and Crude Data
