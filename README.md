@@ -64,4 +64,4 @@ In conclusion, this project set out to discover if the type of data (whether rat
 
 Thank you for reaching the end of bankruptcy prediction project series. Please feel free to [get in touch](https://www.linkedin.com/in/godfreyn321/) to share your ideas on or inspiration from the machine learning and bankrupty prediction journey so far.
 
-For my other projects, click [here](https://github.com/GodfreyElia)
+For my other projects, click [here](https://github.com/GodfreyElia).
