@@ -26,3 +26,12 @@ To find out if the type of data (ratio or crude) used to train and test machine 
 <br>
 
 Fig 1: Box-Plot Showing a Comparison of Accuracies of Models Trained Under Ratio Data and Crude Data
+
+<br clear="both">
+
+<div align="Left">
+  <img height="60%" width="75%" src="https://github.com/GodfreyElia/Ratio-Data_V_Crude-Financaial-Data/blob/main/Diagrams/Bar_Graph.png"  />
+</div>
+<br>
+
+Fig 2: A Bar Chart Showing a Side by Side Performance of Similar Models Trained Using Different Types of Data
