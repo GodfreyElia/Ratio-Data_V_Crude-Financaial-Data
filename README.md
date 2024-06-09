@@ -35,3 +35,11 @@ Fig 1: Box-Plot Showing a Comparison of Accuracies of Models Trained Under Ratio
 <br>
 
 Fig 2: A Bar Chart Showing a Side by Side Performance of Similar Models Trained Using Different Types of Data
+
+From figures 1 and 2, it is easy to notice that models trained under ratio financial data out perfors models that are trained using crude financial data. In our specific comple, the awrags accuracy of the ratio data trained models was just under 94% as opposed to an average of 75% by models trained under crude data. In fact, the least perforaing model in the ratio data trafined andels sent outperfores all the sodels In the crude data camp.
+
+9999 3.2. Statistical Tests
+
+Finally, we ask a question whether the difference in the models is statistically significant or is due to pure chance. To answer this questi confidence level. paired t-test
+
+From the test, se can reject the mill hypothesis that ther
