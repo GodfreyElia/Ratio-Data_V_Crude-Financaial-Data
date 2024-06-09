@@ -49,9 +49,11 @@ From the test, se can reject the null hypothesis that there is no difference in 
 <br clear="both">
 
 <div align="Left">
-  <img height="60%" width="75%" src="https://github.com/GodfreyElia/Ratio-Data_V_Crude-Financaial-Data/blob/main/Diagrams/t-test.png"  />
+  <img height="60%" width="75%" src="https://github.com/GodfreyElia/Ratio-Data_V_Crude-Financaial-Data/blob/main/Diagrams/ttest.png"  />
 </div>
 <br>
+
+Fig 3: Results of Paired t-tests Between Accuracies of Ratio and Crude Data Trained Models
 
 ### 4. Conclusion
 
